@@ -3,8 +3,7 @@
 <div>
   <h3>About me</h3>
   <p>
-    I am currently a backend developer with experience in Django and Django REST, as well as microservices architecture and event-driven architectures using RabbitMQ and gRPC.<br/>
-    Also i'm a Computer Engineering student at UFRN, currently in my final year.
+    I am currently a backend developer with experience in Django and Django REST, as well as microservices architecture and event-driven architectures using RabbitMQ and gRPC. Also i'm a Computer Engineering student at UFRN, currently in my final year.
   </p>
 </div>
 
