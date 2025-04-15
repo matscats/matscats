@@ -2,29 +2,34 @@
 
 <div>
   <h3>About me</h3>
-  <p>I am a Computer Engineering student at the Federal University of Rio Grande do Norte. I am currently participating in a research that uses high performance computation to generate velocity models (using Full Waveform Inversion) that will be applied in oil fields.</p>
-  <h3>Interests</h3>
-    <ul>
-      <li>Physics applied to computation</li>
-      <li>Python programming</li>
-      <li>GNU/Linux</li>
-    </ul>
+  <p>
+    I am currently a backend developer with experience in Django and Django REST, as well as microservices architecture and event-driven architectures using RabbitMQ and gRPC.<br/>
+    Also i'm a Computer Engineering student at UFRN, currently in my final year.
+  </p>
 </div>
-<h3>Stats</h3>
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=matscats&show_icons=true&theme=radical)
+<h3>Interests</h3>
+<ul>
+  <li>Backend development</li>
+  <li>Distributed systems architecture</li>
+  <li>Deepening my expertise in backend technologies</li>
+</ul>
+
+<h3>Stats</h3>
+<img src="https://github-readme-stats.vercel.app/api?username=matscats&show_icons=true&theme=radical" alt="My GitHub stats"/>
 <br/>
 <br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matscats&show_icons=true&theme=radical&layout=compact)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matscats&show_icons=true&theme=radical&layout=compact" alt="Top Langs"/>
 
 <div>
   <h3>Contact me</h3>
-   <a href="mailto:mateuscavalcanti1607@gmail.com">
-     <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Email" width="20">
-      Email
-   </a>
-   <br/>
-   <a href="https://www.linkedin.com/in/mateus-cavalcanti-161439224/">
-     <img src="https://www.svgrepo.com/show/81143/linkedin.svg" alt="Linkedin" width="20">
-      Linkedin
+  <a href="mailto:mateuscavalcanti1607@gmail.com">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Email" width="20">
+    Email
+  </a>
+  <br/>
+  <a href="https://www.linkedin.com/in/mateus-cavalcanti-161439224/">
+    <img src="https://www.svgrepo.com/show/81143/linkedin.svg" alt="Linkedin" width="20">
+    Linkedin
+  </a>
 </div>
