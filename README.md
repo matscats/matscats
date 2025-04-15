@@ -14,12 +14,6 @@
   <li>Deepening my expertise in backend technologies</li>
 </ul>
 
-<h3>Stats</h3>
-<img src="https://github-readme-stats.vercel.app/api?username=matscats&show_icons=true&theme=radical" alt="My GitHub stats"/>
-<br/>
-<br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matscats&show_icons=true&theme=radical&layout=compact" alt="Top Langs"/>
-
 <div>
   <h3>Contact me</h3>
   <a href="mailto:mateuscavalcanti1607@gmail.com">
